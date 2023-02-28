@@ -1,0 +1,10 @@
+body {
+   backgroung_color: greenyellow;
+}
+
+h1 {
+     color: blue;
+     font-family: serif;
+     font-size: 30px;
+     margin-left: 30px;
+}

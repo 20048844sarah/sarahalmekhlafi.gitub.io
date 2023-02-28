@@ -1,0 +1,15 @@
+body {
+   backgroung_color: black;
+}
+
+h1 {
+     color: black;
+     font-family: serif;
+     font-size: 20px;
+     margin-left: 20px;
+}
+img {
+    position: absolute;
+    top: 30px;
+    left: 208px;
+}
